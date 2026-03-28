@@ -16,3 +16,4 @@ A puzzle game where you navigate to the goal, but with a twist - you have limite
 
 ## Play the Game
 https://da1221.itch.io/blind-grid-run
+https://da1221.github.io/blind-grid-run/
